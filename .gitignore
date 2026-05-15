@@ -1,0 +1,10 @@
+# IDE & Tool settings
+.vscode/
+.claude/
+
+# OS cache files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
